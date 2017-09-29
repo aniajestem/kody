@@ -19,31 +19,51 @@ int main(int argc, char **argv)
 
 
 
-    if (a > b) 
-    {
-    if (a > c)
+    if (a > b && a > c )
         {
             cout << "Największe a=" << a;
-        else 
-            cout << "Największe c= " << c;
         }
         
     
-    else if (b > a)
+   if (b > a && b > c )
     
-    
-    
-    
-    if (b > a) 
-{
-    if (b > c)
     {
      cout << "Największe b= " << b;
-     else
-     cout << "Największe c= " << c;
-     
-     
-     
-    } 
-    }return 0;
+ }
+ 
+
+     if (c > a && c > b)
+     {
+     cout << "Największe c=" << c;
+     }
+    
+    
+    
+    
+    // dwie pierwze liczby
+    if (a == b && a > c)
+    {
+        cout << " największe a = b=" << a << b;
+        
+        
+        
+        if (c == b && c > a)
+        {
+             cout<<"największe b i c " << b;
+            }
+        
+        
+        
+        
+    if (c == b && c == a)
+        {
+            cout << " wszytstkie liczby są równe " << a;
+            
+            }
+    
+        }
+    
+    return 0;
 }
+
+

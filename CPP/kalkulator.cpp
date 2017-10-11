@@ -20,25 +20,27 @@ int main(int argc, char **argv)
     cout << " podaj liczby: ";
     cin >> a >> b;
     
-{
     if (znak == '+')
-    cout << " Suma: " << a + b;
-}
-    
     {
+        cout << " Suma: " << a + b;
+    }
+    
     if (znak == '-')
-    cout << " Różnica: " << a - b;
-}
-    
     {
-    if (znak == '*')
-    cout << " Iloczyn: " << a * b;
-}
+        cout << " Różnica: " << a - b;
+    }
+    
 
-{
+    if (znak == '*')
+    {
+        cout << " Iloczyn: " << a * b;
+    }
+
+
     if (znak == '/')
-    cout << " Różnica: " << a / b;
-}
+    {
+        cout << " Różnica: " << a / b;
+    }
     
     
     return 0;

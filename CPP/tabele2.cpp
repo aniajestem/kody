@@ -47,5 +47,6 @@ int main(int argc, char **argv)
     
     cout << "Suma ocen: " << sumuj(liczby, rozmiar) << endl;
     cout << "Srednia: " << liczsrednia(liczby,rozmiar) << endl;
+    
 	return 0;
 }

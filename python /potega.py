@@ -7,17 +7,30 @@
 # an = a*... *a ( n-cznników) dla N+ - {1}
 
 
-def potega_it(pods, wykladnik):
+def potega_it(podst, wykladnik):
     """Funkcja oblicza iteracyjnie
     potege l. naturalnej"""
-    wynik = ...
+    wynik = 1
     for i in range (wykladnik):
-        wynik = ...
+        wynik = wynik * podst
     return wynik
 
 def main(args):
-    return 0
 
+    a = int (input ("Podaj podstawe:"))
+    n = int (input ("Podaj wykladnik:"))
+
+    assert type (a) == int
+    assert type (n) == int
+
+    assert potega_it (100,0) == 1
+    assert potega_it (100,1) == 100
+    assert potega_it (2,3) == 8
+
+    #print ("potega: ", potega_it (a,n))
+
+
+    return 0
 
 if __name__ == '__main__':
     import sys

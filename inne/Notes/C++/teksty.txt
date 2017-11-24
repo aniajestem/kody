@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-10-27T11:13:20+02:00
+
+====== teksty ======
+Created piątek 27 październik 2017
+
+ASCII
+LF - znak bez kórego program nie wiedziałby kiedy kończy linie ( geany ) kod 10
+CR - znak ( powrót karetki)- w systemach windows'owych do oznaczania końca linii ( txt) 
+kod 32 - spacja 
+cufry zaczynają się 48-57
+
+utf-8 - znaki międzynarodowe
+
+znaki białe- tabulator, spacja
+
+tablice, petle, warunkowe
+for, while,if, tablice liczbowe

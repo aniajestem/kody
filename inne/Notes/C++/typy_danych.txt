@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-22T11:02:11+02:00
+
+====== typy danych ======
+Created piątek 22 wrzesień 2017
+
+-tablice poznamy po nawiasach []
+
+#include (dołącz) <iostream> (plik o podanej nazwie)
+imput-wejście
+output- wyjście
+stream- strumień
+
+**podstawowe typy danych:**
+1. **char** - typ znakowy, typ danych ( jeden znak, natomiast wiele w tablicy znakowej)
+2. **int** - typ całkowity
+3. int wiek = 0;    lub     int wiek; // deklaracja typu całkowitego
+	wiek = 0; // inicjacja zmiennej ( inicjacja i deklaracja razem)
+odpowiedź : cin >> wiek;
+ pole koła - M_PI * r * r
+pierwiastek kwadratowy - sqrt(liczba)
+
+else- w przecwinym razie
+
+for - pętla (powtarzanie czegoś) w nawiasaxch ()
+
+
+
+

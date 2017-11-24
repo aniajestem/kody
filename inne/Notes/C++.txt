@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-22T11:03:58+02:00
+
+====== C++ ======
+Created piątek 22 wrzesień 2017
+
+using namespace std; - użyj przestrzeni standardowej, jeśli tego nie napiszemy to trzeba przy każdym std ::
+// -zakomentować żeby nie brać po uwage
+
+was not declared in this scope- top nie zostało zadeklarowane w tym zakresie
+
+bez ; nie widzi poprzedniej linijki
+ctrl d - duplikuj
+<< endl; - znak końca linii ( end of line)
+char- typ danych
+cout << ""- wprowadza dane
+ci bierze >>
+
+' ' - jedna litera
+" " - wyraz
+cin. getline - metoda ( czyli funkcja) zawsze po niej występuje nawias ()

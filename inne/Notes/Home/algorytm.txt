@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-06T11:57:48+02:00
+
+====== algorytm ======
+Created środa 06 wrzesień 2017
+
+**Algorytm**- ("przepis na zrobienie czegoś")- skończony ciąg jasno zdefiniowanych czynności, koniecznych do wykonania pewnego rodzaju zadań (lista kroków)
+1) **Specyfikacja algorytmu** zawiera określenie celu ( co ma zrobić);
+2) Każdy algorytm ma **dane wejściowe**, ktore musi określić ( które dane są prawdziwe);
+3) Określenie **danych wyjściowych**
+ 
+Lista kroków może być zapisana jako:
+**a)** zapis w punktach
+**b)** schematy blokowe (grafika wektorowa) -SVG (skrót)
+
+libre office draw
+
+Rodzaje algorytmów:
+1) **liniowe/blokowe** ( bedzie działał tylko wtedy gdy będą podane dane wejściowe
+2) **rozgałęzione** (nalezy podjąć decyzje)
+
+
+git add. - dodaj wszystkie pliki
+git status - zaczyna wszystko
+git commit - migawka ( zdjęcie)
+-m - komentarz
+git clone- sklonuj
+git init- żeby katalog stał się repozytorium
+cd- zmień katalog
+*. - nie synchronizuj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

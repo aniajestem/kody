@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-05T13:05:03+02:00
+
+**Home**
+Created wtorek 05 wrzesień 2017
+
+Języki niskiego poziomu czyli:
+**Asembler**- związane z tworzeniem języka maszynowego
+
+Języki wysokiego poziomu- wymaga zawsze **kompilator **(przeklształca kod języka wysokiego poziomu na maszynowy) albo** interpreter**.
+**Język Phyton**- potrzebny w językach interpretowanych
+**C++** to język kompilowany
+TIOBE-organizacja;
+

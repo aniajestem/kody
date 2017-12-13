@@ -8,29 +8,37 @@
 
 using namespace std;
 
-int euklides(int x, int y)
+int euklides(int a, int b)
 {
-    while(x != y)
+    while(a != b)
     {
-        if(x > y)
-            x = x - y;
+        if(a > b)
+            a = a - b;
         else
-            y = y - x;
+            b = b - a;
     }
     return x;
 }
 
 int main(int argc, char **argv)
 {
-    int x = 0;
-    int y = 0;
+    int a = 0;
+    int b = 0;
     
         cout<< "Podaj pierwsza liczbe: ";
-        cin >> x;
+        cin >> a;
         cout<< "Podaj druga liczbe: ";
-        cin >> y;
+        cin >> b;
     
-        cout<< "NWD = "  <<euklides(x,y);
+        for (i=mianownik; i>1; i--)
+
+    
+    a=a/i;
+    b=b/i;
+    
+    
+        
+    cout << "ulamek wynosi: " << a << "a/b" << b << endl;
     
 	return 0;
 }

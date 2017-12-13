@@ -26,6 +26,10 @@ def fib_iter(n):
 
     return b
 
+#F(1) = 1
+#F(n) = F(n-1)+ F(n+1) dla n > 1
+def fib_rek (n):
+
 
 def fib_iter2(n):
     a, b = (0, 1)

@@ -10,7 +10,6 @@ def horner_it(k, tbwsp, x):
     for i in range(1, k + 1):
         wynik = wynik * x + tbwsp[i]
 
-
     return wynik
 
 
@@ -24,8 +23,8 @@ def main(args):
 
     print("Wynik wielomianu wynosi: ", horner_it(stopien, tbwsp, x))
 
-
     return 0
+
 
 if __name__ == '__main__':
     import sys

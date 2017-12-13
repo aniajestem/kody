@@ -1,5 +1,6 @@
 /*
  * fibonacci.cpp
+ * 
  */
 
 
@@ -7,30 +8,44 @@
 
 using namespace std;
 
-int fib_iter(int n)
+
+int fib_rek(int n)
 {
-    if ( n == 0)
-        return 0;
-    else if ( n == 1)
+    if(n<2)
+    {
         return 1;
-    int a = 0;
-    int b = 1;
-    int tmp;
-    cout << a << endl;
-    for (int i = 1 ; i < n; i++) 
-    {   tmp = b;
-        b = a + b;
-        a = tmp;
     }
-    cout << a << " " << b << " " << b / a << endl;
-    return b;
+    else return fib_rek(n-2) + fib_rek(n-1);
 }
 
+
+
+void fib_iter(int n)
+{
+    int a = 0;
+    int b = 1;
+    int tmp = 0; 
+    if (n == 0) 
+    {
+        cout << 0;
+    }
+    cout << a;
+    for (int i=1; i<n; i++) {
+        tmp = b;
+        b = a + b;
+        a = tmp;
+        cout<<"Wyraz nr."<<i+1<<": "<<a<<endl;
+        cout<<"Zlota liczba: "<<float(b)/float(a)<<endl;
+        }
+}
 int main(int argc, char **argv)
 {
-    int n;
-    cout << "Numer wyrazu ciągu: " << endl;
-    cin >> n;
-    printf("Wyraz %d = %d", n, fib_iter(n));    
-    return 0;
+	int ile = 0;
+    cout<<"Podaj liczbe: ";
+    cin>>ile;
+    for(int i=0;i<ile;i++)
+    {
+        cout<<i+1<<" wyraz ciagu to: "<<fib_rek(i)<<endl;
+    }
+	return 0;
 }

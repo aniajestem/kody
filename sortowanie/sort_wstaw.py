@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+form math import floor
 
 def sort_wstaw(lista):
     """wersja liniowa"""
@@ -12,6 +13,28 @@ def sort_wstaw(lista):
             k -= 1
         lista[k + 1] = el  # wstawianie elememtu
     return lista
+
+def sort_wstaw_bin(lista):
+    """wersja binarna"""
+    for i in range ( 1, len (lista)):
+        el = lista [i]
+        k= wyszukaj_bin(lewy,prawy,lista,el)
+
+        #tworzenie listy z wstawionym elementem
+        #todo
+        lista= lista [:k] + [el] + lista [k:i] + lista [i + 1:]
+    return lista
+
+def wyszukaj_binarnie(lista, el):
+    lewy, prawy = 0, len(lista) - 1
+    while lewy < prawy:
+        srodek = floor((lewy + prawy) / 2)
+        if el <= lista[srodek]:
+            prawy = srodek
+        else:
+            lewy = srodek + 1
+    if lista[lewy] == el:
+        return lewy
 
 # for (int 1=0;i < n)
 # n - to ilość elementów w tablicy

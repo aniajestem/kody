@@ -20,3 +20,19 @@ Jest możliwe że algorytm jest częściowo poprawny ( bo może on być poprawny
 **DEDUKCJA** - od ogółu do szczegółu
 
 W poprawności algorytmów trzeba uważać na błędy logiczne!!
+
+**ZŁOŻONOŚĆ CZASOWA-** ile razy wykona sie algorytm w zależności od ilości danych
+
+złożoność pamięciowa - ile pamieci potrzebuje algorytm aby zakończył swoje działanie
+
+efektywność algorytmu - zalezy od typu danych którypi operuje
+
+
+
+          
+
+
+
+
+
+

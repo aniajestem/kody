@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-17T11:59:39+01:00
+
+====== SYSTEMY NUMERYCZNE ======
+Created środa 17 styczeń 2018
+
+**System liczbowy:**
+MMXVIII - 2018
+MDXXX - 1530
+MCCCLXIV - 1364
+
+**System pozycyjny:**
+234(6) = 2* 6^2 + 3 * 6^1 + 4*6^0 = 94
+234 (4) - NIE ISTNIE JE BO NIE MOŻE BYĆ CYFRĄ W DANYM SYSTEMIE
+234(5) = 2*5^2 + 3*5^1+ 4*5^0 = 69
+
+BINARNIE:
+1010_{2}(2)= 1*2^3+0+1*2^1+0= 10_{10}
+1001(2)= 1*2^3+0+0+1*2^0= 9(0)
+
+KOLEJNE POTEGI LICZBY 2
+128,64,32,16,8,4,2,1
+1111(2)= 8+4+2+1=15
+1001(2)=8+1=9
+10010011_{2}=128+16+2+1=147_{10}
+
+SYSTEM O PODSTAWIE 16:
+0-9,A,B,C,D,E,F(15)
+11111111_{2}= 255_{10}=FF_{16}
+FF= f*16^1
+f=15
+FF= 15*16^1 + 15*16^0= 255
+
+SYSTEM O PODSTAWIE 8:
+0-7
+644_{8}=6*8^2+4*8^1+4*8^0= 420

@@ -13,11 +13,11 @@ int main(int argc, char **argv)
     cout << "Podaj a: " << endl;
     cin >> a;
     
-    int i = 1;
-    while (i < a)
-    {
-        cout << i << ",";
-        i += 2;
-    }
+    for ( int i=1; i!=a; i+=2) {
+        cout << i << " " ;
+        }
+        
+        
+
     return 0;
 }

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-31T12:13:10+01:00
+
+====== KOMPRESJA ======
+Created środa 31 styczeń 2018
+
+w jednym bajcie można zmieścić 256 znaków!!!!!!
+
+**UNICOD-**komputerowy zestaw znakówm sposób kodowania zapisuje wszystkie litery na świece i we wszystkich jezykach
+
+**KOMPRESJA** - zmiejszanie ilości danych
+ 1 sposobem kompresji jest kod morsa
+
+000111000 - SOS
+
+Kompresja może być:
+a) stratna (zdj, multimedia, audiovideo)- w formatacb - jpeg,png( grafika w necie)
+b) bezstratna ( Morse'a) - w konkretnych formatach np. odc, odt,DOOXL(Microsoft),,, xlsx, pptx,, MK>V - kontener multimedialny

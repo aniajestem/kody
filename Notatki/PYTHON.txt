@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-31T12:00:41+01:00
+
+====== PYTHON ======
+Created środa 31 styczeń 2018
+
+str**.isdigit** - sprawcza czy podany łańcuch jest cyfrą
+sekwencja.**reverse()** - odwrócenie kolejności elementów
+str.**join("łącznik")**- łączy znaki za pomocą łącznika
+str.**format()** - formatowane wyjście
+
+**int()**- konwersja na liczbę calkowitą
+**str()** - konwersja na napis czyli zamiana
+
+**ord** - wymaga znaku, jest to kod ASCII znaku ( nie ma kropki bo jest funkcją)
+**chr** ( kod_ ASCII) - zwraca znak
+
+**len** (sekwencja)- długość sekwencji
+
+SEKWENCJE ( ang. - iterable)- są to napisy (str), listy, słowniki itp.

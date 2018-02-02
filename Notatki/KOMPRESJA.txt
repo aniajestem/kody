@@ -12,8 +12,46 @@ w jednym bajcie można zmieścić 256 znaków!!!!!!
 **KOMPRESJA** - zmiejszanie ilości danych
  1 sposobem kompresji jest kod morsa
 
+...---...
 000111000 - SOS
 
 Kompresja może być:
 a) stratna (zdj, multimedia, audiovideo)- w formatacb - jpeg,png( grafika w necie)
-b) bezstratna ( Morse'a) - w konkretnych formatach np. odc, odt,DOOXL(Microsoft),,, xlsx, pptx,, MK>V - kontener multimedialny
+b) bezstratna ( Morse'a- statystyczny kod) - w konkretnych formatach np. odc, odt,DOOXL(Microsoft),,, xlsx, pptx,, MK>V - kontener multimedialny
+
+Bit Rate - ilość bitów (informacji) na sekundę, występuje we wszystkich formatach
+>CD - 266 bit/s
+ 320 dla ludzi z lepszym sprzętem XDDDDDD
+
+
+The rain i Spain falls mainly on the plain.
+The rain <3,3> Sp<9,4> falls ma<11,3>y on t<34,3> pl<15,3>. =>
+
+ile znaków wstecz => 6 bitów
+długośc ciągu => 2 bity
+
+
+
+
+
+
+
+
+kilobit - Kb
+megabit- Mb
+
+łącze ma max 80 Mb
+
+ASCII: (do 31 są niedrukowalne)
+*null - 0
+ *Line Feed (LF) - 10
+*Carriage Return (CR) - 13 ( powrót do początku linii)
+Znak końca lini w Windowsie LF i CR 
+
+
+**UNIKOD-** mówi jak kodować znaki
+UTF-8- kodowanie wykorzystujące 1-6 bajtów
+
+
+
+

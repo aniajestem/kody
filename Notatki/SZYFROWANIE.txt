@@ -11,3 +11,14 @@ Odczytanie ukrytej informacji to **DESZYFRACJA** (kryptoanaliza)
 
 Rodzaje szyfrów:
 *podstawieniowe
+
+Szyfrowanie asymetryczne:
+Bywa nazywany kluczem do wszystkiego:
+*publiczny - do publicznej wiadomości, udostępnia sie 
+*prywatny- tworzą wspólną całość, musi być chroniony,zazwyczaj w pliku i zabezpieczony hasłem
+HTTPS
+HTTP
+SSL
+certyfikat - firma gwarantuje tożsamość 
+
+algorytm RSA- służy do wygenerowania 2 dużych liczb ( pierwsza to klucz publiczny, a 2 prywatny)

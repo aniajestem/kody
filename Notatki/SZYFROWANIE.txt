@@ -22,3 +22,13 @@ SSL
 certyfikat - firma gwarantuje tożsamość 
 
 algorytm RSA- służy do wygenerowania 2 dużych liczb ( pierwsza to klucz publiczny, a 2 prywatny)
+
+SSH - przykład stosowania kryptografii klucza asymetrycznego ( w sieciach)
+
+Ania Laskowska 09.09.2000 Poniatowa 
+Dqld Odvnrzvnd 3<13<15333 Srqldwrzd - cezar ( klucz: 3)
+Aaaok0020oawn swa990 ntaiLks ..0Pio.  - przestawieniowy ( klucz: 3 )
+Hnak Zhsczkzks 09.09.2000 Acuisecda - vigenere (klucz: hasło)
+
+
+

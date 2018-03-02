@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-02T11:03:46+01:00
+
+====== ODC ======
+Created piątek 02 marzec 2018
+
+Pierwszym składnikiem aritektury logicznej komputera jest **procesor** - logiczna jednostka arytmetyczna, wykonuje proste rzeczy, działania podstawowe; rozmary 64 bitów- podstawowy
+
+ZX Spectrum – jeden z pierwszych małych komputerów domowych
+
+napięcie 3-5 V to jest logiczna jedynka
+jeśli 0,1 V to jest logiczne 0 
+
+//Procesor składa się z://
+* **rejestrów** ( jednym z nich jest akumulator) - komówki w których zapisywane sa różne dane
+* **pamięć RAM**- pamięć swobodnego dostępu
+* **control unit** - jednostka sterująca, ma za zadania synchronizować, komunikuje sie z systemem za pomocą:
+szyny systemowej ( daje podstawową czestotliwośc wykonywanej pracy):
+*systemowa- daje możliwość wykonywania podstawowych
+*szyna danych- służy do przesyłania danych w odpowiedniej czestotliwości
+*szyna adresowa-decyduje gdzie trafiają dane, muszą trafić do odpowiednich komórek procesora
+
+Część danych bierze sie z **pamięci ROM **- tylko do odczytu, w odróżnieniu do RAM zachowuje dane na stałe
+
+W ROM'ie jest **BIOS- **podstawowy system wyjścia/wejścia, teraz zostało to zastąpione UEFI
+BIOS/UEFI - decyduje jakie urządzenia komputer jest w stanie rozpoznać i przekazać systemowi
+Uruchamiamy kompa, włącza sie BIOS i uaktywnia narzędzia wyjścia i wejścia (drugarka, projektor)
+
+
+
+
+
+
+
+

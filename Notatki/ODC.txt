@@ -28,6 +28,38 @@ BIOS/UEFI - decyduje jakie urządzenia komputer jest w stanie rozpoznać i przek
 Uruchamiamy kompa, włącza sie BIOS i uaktywnia narzędzia wyjścia i wejścia (drugarka, projektor)
 
 
+__________________________________________________________________________________________
+
+Dawne komputery nie miały systemów operacyjnych.
+PIerwsze kompy były robione żeby wykonywały odpowiednie zadania, dzisiejsze jeśli sie wgra do odpowiedniego oprogramowania to mogą wykonywać rzeczy nawet do których nie są przeznaczone
+Z biegiem czasu pojawiła sie idea otwartego systemu operacyjnego. Jest otwarty albo uniwersalny 
+**Debiam** jest jednym z najstarszych systemów , jest uniwersalny bo architektura 64-bitowa      (amd 64)
+i386 - architektura dotycząca procesów ale 32-bitowych
+x85- to też 32-bitowa bywa oznaczona jako 386
+Oprócz tefo że jest cała rodzina procesów ARM procesory te są rozpowszechnione wśród tabletów i komórek , nawet budowane są w oparciu o to kompy i mikro-kompy
+
+
+HARDWAR
+SOFTWERE
+USER
+wszystkie są łączone przez program operacyjny
+
+**System operacyjny** - zorganizowany zespół programów ( z jednej strony są to programy ale z drugiej podstawowe procedury obsługi sprzętu
+
+składniki systemu operacyjnego:
+* **jądro** -wartwa oprogramowania perująca bezpośrednio na sprzęcie, wczytuje sterowniki urządzeń, zazwyczaj jest szybkie
+są 2 typy 
+* hybrydowe- powolniejsze ale stabilniejsze
+* monolityczny-
+
+dzieli sie ono na:
+* procesor
+* pamięć
+* urządzenia
+
+Wirtualizacja urządzeń
+
+
 
 
 

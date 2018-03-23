@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-21T12:00:51+01:00
+
+====== Nowa strona ======
+Created środa 21 marzec 2018
+
+Model TCP 
+
+POP3 - do odbierania poczty
+
+DNS (dimain name system)- system serwerów; rozproszona baza danych
+* na 1 poziomie DNS wystepuje TLD( Tom Level Domain)
+
+Adres URL -
+poddomena
+hosta- nazwa serwera ( czesto pomijana w przeglądarce)
+
+________________________________________________________________________
+
+Protokó sterowania tra
+
+TCP:
+* połączeniowy ( tworzy połączenie)
+* niezawodny
+* stanowy
+
+Port sieciowy - są wykorzystywane w komunikacji (np. port 53,
+Porty 0 - 1000 => tzw. porty do których przypisano nazwy usług które obsługują
+
+UDP - w pewnych zastosowaniach, serwer wysyła i zapomina o mnie
+
+
+--------------------
+
+Protokół internetowy:
+IP - składa sie z 32 bitów
+
+pula adresów :
+* publicznych 
+* prywatne ( są 3 zakresy) - adrsy sieci, adresy hostów
+3 pierwsze cyfry to adres sieci (192,168.3.255)
+4 cyfra to
+Wartość maksymalna 254, to 255 jest broadcast
+
+Router zamienia adresy lokalne na adresy publiczne i odwrotnie - NETWORK ADDRTESS TRANSTATION

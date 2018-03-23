@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-13T13:17:30+01:00
+
+====== LINUX ======
+Created wtorek 13 marzec 2018
+
+Systemy windows i apple:
+* własnościowy
+* zamknięty
+
+Open source- otwarte oprogramowanie ( nie twory je jedna osoba)
+
+Jądro Linuxa - podstawowy element dystrybucji linuxa
+Dystrybucja linuxa składa sie z:
+* jądra
+* oprogramowania dodatkowego 
+
+Każdy system składa sie z 
+**jądra + oprogramowania + interface = system**  
+
+debian - dystrybucja, nazywa sie uniwersalnym systemem operacyjnym
+W oparciu o debiana tworzone są 2 inne dystrybucje : ubuntu, linux mint
+
+Numeracja wersji jest bardzo prosta.
+2 wersje 
+* lts
+* pośrednie
+ W windowsie używa sie RUFUS
+
+Partycja- część dysku( zazwyczaj dzieli sie dysk na kilka partycji)
+Sposoby partycjonowania dysku:
+

@@ -1,20 +1,6 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-<meta charset="utf-8" />
-<title>Quiz</title>
-
-</head>
-
-<body>
-    
-    <h1>Witamy w aplikacji Quiz!</h1>
-    <ol>
-        <li><a href= "{{ url_for('lista') }}">Lista</a></li>
-        <li><a href= "{{ url_for('quiz') }}">Quiz</a></li>
-        <li><a href= "{{ url_for('dodaj') }}">Dodaj</a></li>
-    </ol>
-    
-</body>
-
-</html>
+{% extends "szablon.html"}
+{%block tytul %} - Quiz - strona główna {% endblock %}
+{%block h1%}Witamy w aplikacji {%endblock%}
+{%block tresc%}
+<p> Zapraszamy</p>
+{%endblock%}

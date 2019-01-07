@@ -2,18 +2,25 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8" />
-<title>Quiz</title>
+<title>{%block tytul%}{%endblock%}<title>
+    <style type = "text/css">
+        body {blackground: #FFC0CB
+        color: #A52A2A}
+        #menu li {display: inline; }
+    </style>
 
 </head>
 
 <body>
     
-    <h1>Witamy w aplikacji Quiz!</h1>
-    <ol>
+    
+    <ul id = "menu">
         <li><a href= "{{ url_for('lista') }}">Lista</a></li>
         <li><a href= "{{ url_for('quiz') }}">Quiz</a></li>
         <li><a href= "{{ url_for('dodaj') }}">Dodaj pytanie</a></li>
-    </ol>
+    </ul>
+    <h1>{%block h1%}{%endblock%}</h1>
+    {%block tytul%}{%endblock%}
     
 </body>
 
